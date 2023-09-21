@@ -242,4 +242,6 @@ A tomar en cuenta
 - Si los mercados de capitales dependen mucho de las acciones del banco central (intervenciones del BC) y del gasto gubermanetal (estimulos fiscales) estamos viendo el fin del capitalismo. Cuando esto ocurre, las ganancias obtenidas de la actividad capitalista NO son resultado del gasto de los consumidores sino de los que pagan impuestos. Entonces se deberia aumentar la tasa de impuestos.
 - Con el paso de las decadas los estimulos fiscales son mas comunes.
 - Bull Market Confirmation: $$PrecioCierre > PrecioCierreMasBajo * 1.2$$
--
+- ***
+
+- 20230604 - Market Outlook for June 4 2023 - I've seen this movie before.
