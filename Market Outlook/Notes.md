@@ -245,3 +245,32 @@ A tomar en cuenta
 - ***
 
 - 20230604 - Market Outlook for June 4 2023 - I've seen this movie before.
+
+# -----------------------------------
+
+# NOTICIAS
+
+### 24/09/2023
+
+- Earnings NIKE, sotck down 20% YTD
+  - Slowdown in China economy
+  - Questioning of forced labour: Turned down a shareholder proposal that required the company to detail what it does to fullfill international human rigths.
+  - 1st brand globally, significant growth outside US, China is a great market so NIKE depends a lot on its growth
+  - Wholesale
+- Paris Fashion Week
+  - All mayor brands went down during last 3 months
+  - China amounts for 1/3rd of luxury goods expending. But the reopening of China market has not shown the expending amounts of previos years.
+  - US also has decreased luxiry goods expenditure.
+  - Euforia of Paris Fashion Week has decreased
+- Estreno Movie: The Money
+  - Meme stock movie where retail traders that beated the market
+
+### 25/09/2023
+
+- End of Negotiations from media and studios with Hollywood writers.
+  - Actors and writers strike.
+- Full Gear Spending bills vs Continuing Resolution:
+  - Lawmakers have little time to prevent a Goverment shutdown or present a Continuing Resolution to buy time to workout a complete deal.
+  - Due date: october 1st
+  -
+-
