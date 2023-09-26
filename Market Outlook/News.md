@@ -44,3 +44,14 @@
   - Fail to complay with anti money laundering in its funds
 - US Commerce Department blacklisted companies from Russia, China and other countries citing national securiy.
   - Spokesman from China said it was a tactic to weaponice commerce.
+- US santions on Russia:
+  - Sanction assets of oligarcs
+    - Yachts and mansions: Tax money is used to mantain them.
+- Aid groups in Africa:
+  - Shortfall in resources
+  - UN food program has little food shortages
+  - Lots of resources went to Ucraine
+- UN General assembly for climate proyects
+  - Concerns on capital flows causing economic instability in nations that lack the institutions to mantain it.
+- Bob Menendes acused from recesiving cash for favours from bussiness mans:
+  - Influence the outcome of criminal cases.
