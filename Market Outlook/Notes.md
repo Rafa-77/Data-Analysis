@@ -127,6 +127,14 @@ A tomar en cuenta:
     <img src="./Images/Housing.png" width="450" height=280">
 </p>
 
+<p align="center">
+    <img src="./Images/NewHomeSales.png" width="450" height=280">
+</p>
+
+<p align="center">
+    <img src="./Images/Housing2.png" width="450" height=280">
+</p>
+
 - 30-Yr FRM
 - 15-Yr FRM
 - AGNC
@@ -147,6 +155,35 @@ A tomar en cuenta:
   - Refi Index
 - Housing Price Index HPI
   - Actual Vs Forecast
+
+Watch for:
+
+- National Asociation of Homebuilders
+- New Home Sales vs Supply:
+  - Monthly supply: Hikes represent surplus of houses, in subsecuent years it falls but there is still inventory.
+  - It rarely surpass 12 months
+  - Listing of houses
+- Pending Home Sales
+- REFI Index
+- Purchase Index
+- Mortgage Appllications
+- Realtor.com
+  - Median listinf prices
+  - New listings
+  - Active listings
+  - Time on market
+
+# ----------------------------
+
+# PCE
+
+<p align="center">
+    <img src="./Images/PCE.png" width="450" height=280">
+</p>
+
+Personal Consumption Expenditure:
+
+-
 
 # ----------------------------
 
@@ -221,6 +258,8 @@ A tomar en cuenta
   - Recordar la burbuja PUNTO-COM cuando no se podia realizar una buena valuacion de las empresas de tecnologia porque no se tenia una idea de como hacerlo. Ocurre lo mismo con IA. Esto se incrementa porque antes no mostraban las ganancias las empresas, ahora si, por lo que se incrementa el hype de CUANTO PUEDO LLEGAR A GANAR.
   - Es diferente del Hype de Bitcoin, porque este no se derramo a otros mercados. Pero la IA si.
   - Se verá en tiempo (años) en los flujos de efectivo, pero no de manera inmediata. Pero habrá un hype por predecir esto de manera rapida y sobrevaluara las empresas y al mercado.
+- Cuando son las reuniones de la FED? Cuantos dias faltan para la proxima?
+-
 
 # Notas Tecnicas
 
