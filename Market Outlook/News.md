@@ -55,3 +55,64 @@
   - Concerns on capital flows causing economic instability in nations that lack the institutions to mantain it.
 - Bob Menendes acused from recesiving cash for favours from bussiness mans:
   - Influence the outcome of criminal cases.
+
+### 26/09/2023
+
+- Moodys warns that the shut down could cause a negative impact in US sovereign credit.
+  - Lawmakers try to reduce the number of spending bills that need to pass before October 1st
+  - Moodies is one of the 3 big raters
+  - Weakness in the governance
+  - It said a shtdown would have a minimum effect on the economy overall, but specific areas like defence contractors and bond issuers that depend on government funding could be severely impacted.
+- Government shutdown
+  - Debate on 4 spending bills
+  - If congress do not pass a funding measure before sunday the shutdown will occur.
+  - Bad timing with the Fed as it plans future rate highs.
+    - The shutdown inhibites acces to the latest economic data.
+    - If the shutdown lasts for too lang the inflation data for September will not be available on time, also the jobs report
+    - The Fed is looking for evidence that the agressive rate increases are slowing down the ecconomy
+- Democrats and republicans aim for Union support
+  - Biden met Striking US auto workers (United Auto Workers UAW) in michigan
+  - Trump met with union workers
+    - In 2016 he gainned the support of the whole union
+    - He seeks their endorsement
+    - He blames workers problems on the push by the democratics to promote electric vehicles
+- Ford pauses 3.5 billion battery plant in Michigan that aims to produce lower cost cells using CATL (chinesse)
+  - Ford own and operated
+  - Investigations arguing the Chinesse domination over the US auto industry
+  - Ford is in a race with Tesla and other automakers, hence the necesity to lower costs.
+- Armenia calls for international help to prevent risk of genocide after the disputes of the Nagorno-Karabakh region with Azerbaiyan
+  - Azerbaiyan launched a deadly assault on the region.
+  - Etnic Armenian people evacuated.
+  - Armenia Prime minister met with US officers
+- US Property sector
+  - commercial landlord contend:
+    - Higher vacancies
+    - Record High insurance premiums
+      - 7% annual increase since 2017
+        - Climate change (flooding, wildfires, hurricanes)
+        - Shrincking reensurance market
+        - Inflation, rebuilding and repair is more expensive
+    - High interest rates
+  - Home prices
+    - rose in July
+    - Rising mortgage prices sunk affordability
+    - Chicago en Cleveland suffered the highest prices
+    - Prices fell in Las Vegas
+- Google antimonopoly trial
+  - Search engine dominan position
+  - Google deals with Apple and phone makers in 2001 to make their search engine their default
+- Holliwood studios, streamers and writers strike
+  - Terms of the labour agreement released on sunday
+  - Tentative:
+    - Studios can use the writers work to train AI
+- JPMorgan Chase, will pay 75 million to settle a civil lawsuit for Jeffrey Epstein for keeping him as a client.
+- Federal Trade Commission FTC sues Amazon stating it operates an illegal online monopoly.
+  - Anti-trust laws
+    - In order to be a successfull seller in Amazon you need to use their other services, tying users to use their logistics and adds program and collecting fees.
+    - Amazon forces sellers to have the lowest price for their products.
+- Farma:
+  - Ozempic, Wegovy, and Mounjaro,
+  - Used to treat tye 2 diapetes and also cause Weightloss
+  - Obesity is a huge market, high Demand for farma that help lose weight
+  - Risk that everyone knows they are going to be blockbusters
+-
