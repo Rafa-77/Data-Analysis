@@ -115,4 +115,57 @@
   - Used to treat tye 2 diapetes and also cause Weightloss
   - Obesity is a huge market, high Demand for farma that help lose weight
   - Risk that everyone knows they are going to be blockbusters
--
+
+### 27/09/2023
+
+- OpenAI sharesale 90 billion valuation
+  - Billion in revenue for 2023
+  - 3 fold increase since the start of the year
+  - The company will not be public
+- Pressure to avoid goernment shutdown
+  - Bill to fund the government to mid-november and sending more money to Ucraine
+  - McCarthy said border security is more important
+- Trump certificates to do business in NY will be canceled
+  - Trump commited fraud by overvaluing its real estate and achieving more loans
+- Variable rate loans
+  - Financial burden on mortagage owners
+  - Financial burden on bussineses may cause corporate defaults
+    - 1.7 trillion dollar in floating loans
+    - Small rates during the pandemic
+    - Large rates now
+    - Cash flows show that customers are spending less, and interest cost are increasing in ther balance sheet
+    - Fitch 270 million loans are potentially at risk
+      - increase in the default rate
+    - Impact on lenders, thet have tighten their credit availability
+  - If there is a economic slowdown it will be dificult to serve their debt.
+- Hollywood writers win a mayor labour negotiation
+  - Studios and streamers will hire a minimum number of writers
+  - increase in royailties and bonusses
+  - protections against studio use of AI
+- US employees of tiktok see high level personel transfer from Bidance in China.
+- Household savings are increasing since 2019
+- Target will close stores after lots of thefts.
+- Electric Vehicles
+  - How much Involved should China Be, since it produces most of the components for this car
+  - Ford will work with Chinesse companies to improve
+  - GM said working with china is risky
+    - For consumers this have serious stakes: a lot of EV will be more expensive
+- US Crude Oil Futures reach their highest level of the year at $93.62
+  - Rally since july
+  - Production cuts from OPEC and allies to lower supply
+  - Prices up 17% since start of year
+- Musk gained international influence
+  - influence does not derive over his control over money
+  - His companies sectors are of national matter.
+    - Vehicles
+    - Ethernet
+    - Space
+    - Twitter
+  - His views in Ucraine with Crimea, and Taiwan with China are controversial.
+  - He thrived in a harsh political/economical environment.
+  - He is influential because he is good at what he does.
+- Equipment to Ucraine.
+  - Ucraine has become an arms fare, where military companies test and troubleshoot military equipment.
+  - Global military expending has risen by 8 consecutive years
+- GOP debate
+  - Trump wil not go

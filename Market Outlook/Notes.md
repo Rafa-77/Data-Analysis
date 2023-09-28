@@ -286,3 +286,5 @@ A tomar en cuenta
 - 20230604 - Market Outlook for June 4 2023 - I've seen this movie before.
 
 # -----------------------------------
+
+32:22
