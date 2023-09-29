@@ -176,7 +176,7 @@
   - Trump did not participate
     - he went to support union auto workers
     - Blasted union leaders and biden administration for supporting electric automoviles
-- Evergrande shares trading suspended after founder and chairmas was put under police surveillance
+- Evergrande shares trading suspended after founder and chairmas was put under police surveillance-
 - X Corp (twitter) next year will have revenue
 - META released AI Chatbots, 3D Headset and more
 - Hiring trends expend a more subdued winter
@@ -200,3 +200,20 @@
   - Predictions aim that congress will fail to fund the government pass saturday
     - Close federal agencies
     - with-hold pay for federal workers and active duty military personel
+- Self governing region in Azerbaiyan disolved
+  - Armenian population fleeng to armenia
+  - Armenian separatist leaders disolved their government, the region ceases to exist
+  - Azerbaiyan claim the region as its own.
+  - The region was occupied by etnic armenians and was a breakaway region.
+  - Azerbaiyan has always wanted it back.
+  - 2020 Peace Agreement permitted russian peacekeepers to be in the region, but russia is preocupied with Ucraine so Azerbaiyan took advantage
+- Oil prices at almost $100 a barrel
+  - OPEC+ cut production by 2 million barrels a day on Oactober
+  - Then a Saudi led grop cut production further
+  - This month Saudi Arabia and Russia plan to extend their cuts till the end of year
+  - why? They try to raice prices to fund their proyects.
+  - Risk? Cuts have not been always succesfull
+  - This oil prices can cause core inflation
+- Talks between Biden and Shi (presindent of China)
+- Energy department for powergrid proyects
+- GameStop has new CEO
