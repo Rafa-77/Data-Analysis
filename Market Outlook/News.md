@@ -169,3 +169,34 @@
   - Global military expending has risen by 8 consecutive years
 - GOP debate
   - Trump wil not go
+
+### 28/09/2023
+
+- GOP Presidential debate
+  - Trump did not participate
+    - he went to support union auto workers
+    - Blasted union leaders and biden administration for supporting electric automoviles
+- Evergrande shares trading suspended after founder and chairmas was put under police surveillance
+- X Corp (twitter) next year will have revenue
+- META released AI Chatbots, 3D Headset and more
+- Hiring trends expend a more subdued winter
+  - Slowdown prediction on spending for holidays
+- Europe economy
+  - Staggering growth
+  - Increased inflation
+  - Signs point to a Eurozone recession
+  - German economy is in danger of shrinking
+    - Shock of war in Ucraine, Germany is greatly exposed to the Eastern european economy
+    - Shock of the Northstream pipeline gas supply shutdown, Germany is greatly exposed to imporst from Russia.
+      - Energy intensive sectors suffer most with cost augment
+    - Recovery has not come this year
+    - Automotive sector (most important in the country) suffered from the diesel scandal, electric movility
+    - Inflation reduction act IAR
+    - Germany is the stability anchor of the Euro Zone
+- Theme parks with flows below pandemic levels.
+- Government shutdown
+  - Republican house speaker Kevin McCarthy reyected democrats bill and welcomed the shutdown if it led to a better resolution of the spending fight.
+  - Democrats bipartisan short-term funding bill
+  - Predictions aim that congress will fail to fund the government pass saturday
+    - Close federal agencies
+    - with-hold pay for federal workers and active duty military personel
