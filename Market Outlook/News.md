@@ -217,3 +217,14 @@
 - Talks between Biden and Shi (presindent of China)
 - Energy department for powergrid proyects
 - GameStop has new CEO
+
+### 29/09/2023
+
+- House republicans succeded in pass annual Spending bills
+  - GOP united behing funding legislation to avoid a partial government shtudown
+  - Final spending bill of the evening failed
+- Impeachment of Biden´s family
+- Inuted Auto Workers Union strike against detroit 3 automarkers: Ford, Gm and stalantis.
+- Pandemic pause for student loan payments will sease and payments will be resumed.
+- Teska suffered a racial harrasement lawsuit.
+- Inflationary pression building up in mining sector, high commodity prices
