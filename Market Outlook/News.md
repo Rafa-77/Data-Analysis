@@ -228,3 +228,155 @@
 - Pandemic pause for student loan payments will sease and payments will be resumed.
 - Teska suffered a racial harrasement lawsuit.
 - Inflationary pression building up in mining sector, high commodity prices
+
+---
+
+### WEEK
+
+### 02/10/2023
+
+- Government shutdown:
+  - Last minute measure to avoid shutdown
+  - Kevin McCarthy in a precarious spot because he decided to keep the government opened
+  - Surprise Deal will only last for little more than 45 days and includes a disaster relief aid
+  - Spending bills Fight is not over
+- China:
+  - Ecnomic data shows improvement in the economy
+    - specially in manufacturing
+    - contruction and services did k
+    - Property sector continues to be the drag, wi another fall in new home sales
+  - The world bank cut its 2024 forecast for the DGP growth to 4.4% from 4.8%
+  - There is a strictural adjustment goinon in Chinas economy, with the property sector that has been the engine of growth is no more
+- Electric Vehicles:
+  - Rivian reported loss of 33k per vehicle sold
+    Electric Hydrogen secured funding surpassing 1 billion in valuation
+  - Teslas sales slowed down in this trimester
+- Donald Trump:
+  - Civil fraud trial started in NY, where his bussiness is accussed of providing false and misleading valuations to banks and insurers for financial gain
+  - Specific allegations have to do with insurance fraid, conspiracy, falcifying documents.
+  - They ask for 250 million and cancellation of the business certificated to operate in NY.
+  - There are no previous cases with these kind of penalties
+- US Economy:
+  - Spending:
+    - Strenght in consumer spending: despite economuc factors like rising interest rates, inflaiton , pandemic saves shrink, coll labour market; americans are still buying a lot
+    - The changes in housing market make it that consumers no longer see a point in saving for a home, so they are spending in short term goals
+    - Drastic change in consumer expenditure
+- Auto workers Strike:
+  - effects on us steel market, with proces falling
+
+### 03/10/2023
+
+- Political Turmoil:
+  - Congressman Matt Gaetz's effort to oust House Speaker Kevin McCarthy.
+  - A historic Capitol vote over party leadership.
+  - Gaetz's motion to oust McCarthy and the clash between Republicans.
+- Business and Finance:
+  - Financial insights into TikTok owner ByteDance, doubling its operating profit.
+  - Meta's plan to introduce fees for Facebook and Instagram users in Europe.
+  - Instagram users in Europe potentially paying to avoid personalized ads.
+- Labor Market:
+  - A decline in the quits rate, with more Americans staying in their jobs.
+  - Factors influencing the labor market, such as a softening job market.
+- Economic Trends:
+  - Office attendance in major U.S. cities remaining at half of 2019 levels.
+  - Challenges for office landlords due to high vacancies.
+  - The potential impact of a U.S. economic slowdown on return-to-office mandates.
+- Legal Matters:
+  - The beginning of the trial for FTX founder Sam Bankman-Fried.
+  - Criminal charges against Bankman-Fried, including allegations of financial fraud.
+  - The significance of three members of Bankman-Fried's inner circle pleading guilty.
+- Automotive Industry:
+  - Layoffs in the auto industry, with Ford and General Motors laying off 500 workers.
+  - The United Auto Workers strike affecting various facilities.
+- International Relations:
+  - The Pentagon's remaining budget for providing assistance to Ukraine.
+  - Questions about the future of U.S. support for Ukraine amid a short-term spending bill.
+- Space Exploration:
+  - The ongoing search for life on planets other than Earth.
+  - Challenges in defining and detecting potential extraterrestrial life.
+- Politics and Legislation:
+  - The historic ousting of House Speaker Kevin McCarthy.
+  - Uncertainty and lack of a blueprint for the next steps in the House leadership.
+- Technology and Social Media:
+  - Amazon's use of a secret algorithm, "Project Nessie," to test pricing strategies.
+  - The Federal Trade Commission's monopoly lawsuit against Amazon.
+- Aviation Security:
+  - Criminal gangs exploiting security gaps at airports and recruiting airport workers.
+  - Increased concern about criminal organizations using airports as recruiting grounds.
+- Federal Reserve on Social Media:
+  - The Federal Reserve's initiative to connect with younger audiences on Instagram.
+  - Responses to the Federal Reserve's first video post on its new Instagram account.
+
+### 04/10/2023
+
+- U.S. Politics - Leadership Change in the House of Representatives
+  - Speaker McCarthy's Ouster
+    - Speaker Kevin McCarthy ousted.
+    - McCarthy won't run for Speaker again.
+    - House of Representatives paralyzed.
+    - Need to elect a new House Speaker.
+    - Potential candidates for Speaker mentioned.
+  - Impact and Next Steps
+    - Immediate agenda for house lawmakers.
+    - Challenges in electing a new Speaker.
+    - Potential impact on pressing business in Congress.
+  - Acting Speaker
+    - Patrick McHenry acting as Speaker.
+- Financial Markets - Bond Market and Economic Soft Landing
+  - Selloff in Bonds
+    - Sudden selloff in U.S. bonds.
+    - Surge in borrowing costs.
+    - Impact on long-term interest rates.
+  - Potential Economic Soft Landing
+    - Doubts on the prospect of an economic soft landing.
+    - Federal Reserve's string of rate hikes.
+    - Challenges for companies in a rapidly changing market.
+- Healthcare
+  - Healthcare Worker Strike at Kaiser Permanente
+    - Largest U.S. healthcare strike.
+    - 75,000 Kaiser Permanente employees walk off.
+    - Contract dispute over wages and staffing.
+  - Impact on Services
+    - Impact on medical services during the strike.
+- Legal Issues - Trump's Civil Fraud Trial
+  - Judge's Rebuke
+    - Trump's baseless rumor about the judge's law clerk.
+    - Gag order imposed by Justice Arthur Engoron.
+- National Emergency Alert System Test
+  - FEMA's Nationwide Emergency Alert Test
+    - FEMA testing the nationwide emergency alert system.
+    - Message content and delivery to all cellphones, TVs, and radios.
+- Technology - Artificial General Intelligence (AI)
+  - SoftBank CEO's Forecast on AI
+    - Masayoshi Son's forecast on AI surpassing human knowledge.
+    - SoftBank's potential investment focus on AI-related technologies.
+- Business - Coffee Market and Starbucks Expansion
+  - Starbucks Expansion in Developing Markets
+    - Starbucks pursuing expansion in China.
+    - Competition with other brands in the Chinese coffee market.
+- Automotive Industry - Ford's Sales Report
+  - Ford's Third Quarter Sales
+    - 7.7% increase in third-quarter sales.
+    - Strong demand for large gas engine pickup trucks and hybrids.
+    - Impact of the United Auto Workers union strike.
+- International Relations - Russia's Military Move in the Black Sea
+  - Russia's Fleet Withdrawal from Crimea
+    - Russia's withdrawal of the Black Sea Fleet from occupied Crimea.
+    - Impact on Russia's military strategy and Ukraine's counteroffensive.
+- Insurance Industry - State Insurance Plans as Last Resort
+  - Surge in State Insurance Plans
+    - Growing reliance on state insurance plans.
+    - Concerns about concentration of risk and potential industry impact.
+- Personal Finance - Retirement Savings
+  - Millennial Retirement Savings
+    - Millennials saving more for retirement.
+    - Impact of auto-enroll programs on retirement savings.
+- Airport Services - Visitor Pass Programs
+  - Airport Visitor Programs
+    - Monetizing the airport experience.
+    - Visitor pass programs for non-travelers.
+    - Focus on local communities and nearby hotels.
+
+### 05/10/2023
+
+Do the categories, subcategories and key ideas:
