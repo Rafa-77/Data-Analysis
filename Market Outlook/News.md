@@ -379,4 +379,189 @@
 
 ### 05/10/2023
 
-Do the categories, subcategories and key ideas:
+- Political Developments in the House of Representatives
+  - Several House Republicans vying for Speaker position.
+- Regulatory Scrutiny on Cloud Computing Services
+  - UK Probe on Amazon and Microsoft
+    - Ofcom initiates a probe into cloud services market dominance.
+    - Concerns about practices affecting competition.
+- Global De-Dollarization Trends
+  - Concerns Among Economists and Investors
+    - Decade-long trend of de-dollarization.
+    - Associated with a backlash against globalization.
+- Foreign Governments' Dependency on the US Dollar
+  - Attempts to Reduce Dependency
+    - Recent IMF figures showing 58.9% of foreign exchange reserves in dollars.
+    - Some countries considering alternative currencies.
+- Tech Industry Investigations and Responses
+  - UK Competition and Markets Authority Investigation
+    - Ofcom's concerns about concentrated market practices.
+    - Potential impact on Amazon and Microsoft business practices.
+- Social Media and Advertisement Challenges
+  - Community Notes on Ads
+    - Companies cautious about advertising on X.
+    - Elon Musk's remarks on the impact of community notes on revenue.
+- House Speaker Candidates and Leadership Transition
+  - Republican Leadership Race
+    - Steve Scalise, Jim Jordan, and Kevin Hern in the race.
+    - Mitch McConnell's advice on the Speaker's job.
+- Global Economic Impact of the US Dollar
+  - Role of the US Dollar
+    - US dollar as the bedrock of international financial markets.
+    - Concerns about de-dollarization trend and its potential impact.
+- Financial Performance of Companies
+  - Rivian's Stock Movement
+    - Rivian's stock drop after meeting sales estimates.
+  - Clorox Cyberattack
+    - Cyberattack impact on Clorox's sales and profitability.
+- Investment Slump in Hong Kong's Stock Market
+  - Factors Contributing to the Slump
+    - Fading investor interest and challenges in attracting listings.
+    - Impact of foreign sentiment towards the China market.
+- Cryptocurrency Exchange Controversy
+  - Alleged Backdoor in FTX Exchange
+    - Employees discovering a backdoor used to withdraw customer funds.
+    - Sam Bankman-Fried's criminal fraud trial and plea.
+- Luxury Private Islands in Cruise Industry
+  - Cruise Lines' Investment
+    - Cruise lines investing in private islands for a resort-like experience.
+    - High cost and maintenance challenges associated with private islands.
+
+### 06/10/2023
+
+- Exxon's Potential Blockbuster Deal
+  - Exxon's $60 billion takeover of Pioneer Natural Resources.
+  - Expected to reshape the US oil industry.
+  - Exxon's focus on fossil fuel production amid the push for green energy.
+- MGM Cyberattack
+  - MGM's refusal to pay a hacker's ransom demand.
+  - Disruptions caused by the cyberattack.
+  - Cost estimation of over $100 million in the third quarter.
+- US Jobs Market
+  - Jobs Day in the US.
+  - Expected hiring numbers for September.
+  - Indications of the labor market emerging from pandemic distortions.
+- SEC Investigation into Elon Musk
+  - SEC suing Elon Musk to comply with the investigation into his Twitter takeover (X).
+  - Musk's response and call for punitive action against regulatory abuse.
+- Competition in the Electric Vehicle Market
+  - BYD's competition with Tesla.
+  - BYD's evolution from a battery manufacturing operation.
+  - Tesla's reaction and potential future competition.
+- House Speaker Endorsement
+  - Donald Trump's endorsement of Ohio Representative Jim Jordan for the next House Speaker.
+  - Consideration of Jim Jordan and Trump for the position.
+- Rise in Violent Crime in DC
+  - Significant increase in homicides in Washington, DC.
+  - Contrasting trends with other major cities.
+- US Resumes Deporting Venezuelan Nationals
+  - Efforts to discourage the increasing number of migrants from Venezuela.
+  - Shift in US-Venezuelan relations and deportation agreements.
+- Challenges for Foreign Investment in China
+  - Concerns among companies about risks associated with foreign investment in China.
+  - Restrictions and crackdowns affecting foreign companies operating in China.
+- Human Rights Activist Wins Nobel Peace Prize
+  - Narges Mohammadi awarded the Nobel Peace Prize for her fight against the oppression of women in Iran.
+  - Details of Mohammadi's situation, serving a 10-year jail sentence.
+- US Jobs Surge and Implications for Rate Hike
+  - Unexpected surge in hiring for September.
+  - Implications for the Federal Reserve's decision on rate hikes.
+- Impact of Weight Loss Drugs on Food Companies
+  - Investors' concerns about the impact of weight loss drugs on food consumption.
+  - Food giants' response and strategies to adapt.
+- Amazon's Satellite Launch
+  - Amazon's launch of prototype satellites for Project Kuiper.
+  - Competing with SpaceX and plans for a satellite network.
+- Paris Bedbug Infestation Controversy
+  - Allegations of a bedbug infestation in Paris.
+  - Political implications and concerns ahead of the Summer Olympics.
+
+### 09/10/2023
+
+- Israel-Hamas Conflict
+  - Surprise Attack by Hamas
+    - Palestinian militants' surprise attack, significant role of Iran.
+  - Involvement of Hezbollah
+    - Hezbollah's role in planning, potentially the first stage of the war.
+  - Developments on the Ground
+    - Israeli forces besieging Gaza, high casualties, hostage situation.
+  - International Reactions
+    - Regional Reactions
+      - Saudi Arabia's pro-Palestinian stance, Arab countries advocating de-escalation.
+    - Global Reactions
+      - President Biden's support for Israel, the deployment of the U.S. aircraft carrier.
+  - Iran's Involvement
+    - Explosive reporting on Iran's role in planning the attack, meetings with Hamas and Hezbollah, potential consequences for the region.
+  - U.S. Involvement and Stance
+    - U.S. Military Presence
+      - Deployment of a U.S. aircraft carrier, role in deterrence.
+    - U.S. Diplomatic Efforts
+      - President Biden's statements, potential impact on U.S. foreign policy goals.
+  - Israel's Response and Goals
+    - Israeli Military Actions
+      - Clearing Hamas militants, focusing on specific goals.
+  - Potential Long and Protracted War
+    - Unprecedented nature of the attack, uncertainty in goals, potential escalation.
+  - Role of Other Parties
+    - Palestinian Authority's Response
+      - Mahmoud Abbas' perspective, blaming Israeli policies.
+    - Reaction of Other Militant Groups
+      - Possible involvement of Hezbollah, implications for a larger regional war.
+  - Humanitarian Impact and Siege
+    - Humanitarian Situation
+      - Displacement of people, desperate situation in Gaza.
+    - Siege on Gaza
+      - Israel's strategy to cut off Hamas' fighting ability.
+  - Market and Financial Impact
+    - Oil and Gas Prices
+      - Surge in prices due to conflict and instability.
+    - Market Reaction
+      - Stock market fluctuations, impact on defense and energy stocks.
+- Disney and Activist Investor
+  - Nelson Peltz's push for board seats, Disney's challenges, potential impact on shares.
+- RFK Jr.'s Presidential Bid
+  - Shift to an independent bid, potential impact on the general election, responses from Biden and Trump campaigns.
+- Nobel Prize in Economics
+  - Claudia Goldin's achievement, focus on gender wage gap, contribution to understanding women's work patterns.
+
+### 10/10/2023
+
+- Geopolitical Developments and Conflicts
+  - Israel-Gaza Conflict
+    - Israel preparing ground defensive on Gaza and conducting airstrikes.
+    - Concerns about a wider conflict involving Hezbollah in Lebanon.
+    - Increasing civilian casualties in Gaza, with Hamas threatening to execute hostages.
+    - Israel mobilizing a massive number of troops for a potential ground assault.
+    - U.S. involvement in supporting Israel and concerns about a broader regional conflict.
+- Global Economic and Business News
+  - China's Economic Issues
+    - Housing sector meltdown in China, focusing on Country Garden's debt crisis.
+    - Default fears as Country Garden fails to make international debt payment.
+    - China's deepening housing downturn affecting a major property developer.
+    - Broader impact on consumer confidence and potential effects on the economy.
+  - Labor Strikes in the Auto Industry
+    - Auto strikes expanding in the U.S. and Canada, involving thousands of workers.
+    - Workers rejecting contract proposals, leading to work stoppages.
+    - Impact on production and operations at major auto companies.
+- U.S. Political and Legal Developments
+  - Special Counsel Investigation and President Biden
+    - President Biden interviewed by the special counsel regarding classified documents.
+    - Investigation nearing its end, and a report expected before the 2024 election.
+    - White House cooperation with the investigation, focusing on potential influence concerns.
+  - House Republicans and Speaker Nomination
+    - House Republicans working to find a new Speaker after Kevin McCarthy's removal.
+    - Candidate forum and conference vote to select a new nominee.
+    - Potential contenders include Steve Scalise and Jim Jordan.
+    - Kevin McCarthy's possible reconsideration of running for Speaker.
+
+### 11/10/2023
+
+### 12/10/2023
+
+### 13/10/2023
+
+## WEEK
+
+### 16/10/2023
+
+From this text, do the categories, subcategories and key ideas:
