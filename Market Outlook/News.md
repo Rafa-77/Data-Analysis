@@ -556,6 +556,34 @@
 
 ### 11/10/2023
 
+- Geopolitical Developments and Conflicts
+  - Israel-Gaza Conflict
+    - Israel preparing major ground defensive and conducting airstrikes.
+    - Concerns about a wider conflict involving Hezbollah in Lebanon.
+    - Increasing civilian casualties in Gaza, with Hamas threatening hostages.
+    - Israel mobilizing a massive number of troops for potential ground assault.
+    - U.S. involvement in supporting Israel and concerns about a broader regional conflict.
+- Global Economic and Business News
+  - China's Economic Issues
+    - Housing sector meltdown in China, exemplified by Country Garden's debt crisis.
+    - Default fears as Country Garden fails to make international debt payment.
+    - China's deepening housing downturn affecting a major property developer.
+    - Broader impact on consumer confidence and potential effects on the economy.
+  - Labor Strikes in the Auto Industry
+    - Auto strikes expanding in the U.S. and Canada, involving thousands of workers.
+    - Workers rejecting contract proposals, leading to work stoppages.
+    - Impact on production and operations at major auto companies.
+- U.S. Political and Legal Developments
+  - Special Counsel Investigation and President Biden
+    - President Biden interviewed by special counsel regarding classified documents.
+    - Investigation nearing its end, with a report expected before the 2024 election.
+    - White House cooperation with the investigation, focusing on potential influence concerns.
+  - House Republicans and Speaker Nomination
+    - House Republicans working to find a new Speaker after Kevin McCarthy's removal.
+    - Candidate forum and conference vote to select a new nominee.
+    - Potential contenders include Steve Scalise and Jim Jordan.
+    - Kevin McCarthy's possible reconsideration of running for Speaker.
+
 ### 12/10/2023
 
 ### 13/10/2023
