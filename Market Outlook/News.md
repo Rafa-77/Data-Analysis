@@ -586,6 +586,38 @@
 
 ### 12/10/2023
 
+- Middle East Conflict:
+  - Thousands of troops massing at Israel's northern border.
+  - Hezbollah's missile capabilities and the threat to Israel's air defenses.
+  - Ongoing battle at the Gaza border with casualties and humanitarian concerns.
+  - Concerns about a potential second front with Hezbollah.
+  - U.S. Secretary of State's visit to Israel and Saudi Arabia's involvement.
+  - U.S. offering support to Israel in the conflict.
+  - Humanitarian Concerns:
+    - Humanitarian situation in Gaza, including water shortages.
+    - Hostage situation with Hamas threatening to kill hostages.
+    - Impact on civilians and the need for aid.
+  - Geopolitical Dynamics:
+    - Shifting dynamics in the Middle East due to the conflict.
+    - Questions about the balance of power and the role of different actors.
+    - Impact on Iran's regional influence and relations with its allies.
+  - Domestic Politics in Israel:
+    - Netanyahu facing pressure domestically.
+    - Criticism of intelligence failure and the need for a strong response.
+    - Formation of an emergency unity government.
+    - Political considerations in deciding on a ground assault in Gaza.
+- Labor Strikes:
+  - Expansion of the United Auto Workers (UAW) strike to Ford's largest factory.
+  - Hollywood actors' strike affecting talks with studios.
+    - Potential consequences for the 2023-24 TV season and movie releases.
+- Economic Impact:
+  - U.S. inflation holding steady with a 0.4% rise in the Consumer Price Index (CPI).
+  - Potential impact on the Federal Reserve's decision on interest rates.
+  - Social Security cost-of-living adjustments for next year.
+- International economy:
+  - Talks between the U.S. and Iran regarding frozen oil proceeds.
+  - International Energy Agency warning about global oil market risks.
+
 ### 13/10/2023
 
 ## WEEK
