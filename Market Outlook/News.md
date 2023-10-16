@@ -620,6 +620,37 @@
 
 ### 13/10/2023
 
+- Israel-Gaza Conflict
+  - Israel orders evacuation of over a million civilians in Northern Gaza.
+  - Israel Defense Forces spokesperson emphasizes the evacuation for safety.
+  - Military Actions and Targets
+  - UN warns of devastating humanitarian consequences.
+- US Diplomatic and Military Involvement
+  - US providing military assistance to Israel.
+    - US officials emphasize no plans to deploy troops but express national security interests.
+    - Focus on protecting and defending key national security interests in the region.
+  - Concerns about Civilian Safety
+  - Role of US Troops
+  - Discussion on potential wider conflict and escalation risks.
+    - Concerns about the involvement of other actors like Hezbollah.
+    - Efforts for hostage recovery and information gathering.
+  - Communication with allies and exploration of diplomatic options.
+  - Support for humanitarian efforts and safe passage for civilians.
+- Microsoft's Acquisition of Activision Blizzard
+  - Microsoft's blockbuster deal for Activision Blizzard gets approval.
+    - UK regulators approve the $75 billion merger.
+  - Conditions and Impact on Cloud Gaming
+  - Timeline for Merger Completion
+- France Attack:
+  - Suspected terrorist attack at a high school in France.
+  - Link suggested between the attack and events in the Middle East.
+- Bank Earnings and Concerns:
+  - Strong earnings reports from JP Morgan, Chase, Citigroup, and Wells Fargo.
+  - Executives express concerns about potential challenges and global uncertainties.
+- Healthcare Worker Agreement:
+  - Kaiser Permanente reaches a tentative agreement with labor unions.
+  - Terms include wage increases and protections against outsourcing.
+
 ## WEEK
 
 ### 16/10/2023
