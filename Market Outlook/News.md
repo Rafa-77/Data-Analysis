@@ -728,4 +728,38 @@
 
 ### 18/10/2023
 
-From this text, do the categories, subcategories and key ideas:
+- International Relations and Conflicts
+  - Israeli-Palestinian Conflict
+    - President Biden's response to the Gaza hospital blast
+    - Dispute over the cause of the explosion
+    - U.S. support for Israel's account
+  - Humanitarian Aid and Diplomacy
+    - U.S. President Biden's Visit
+    - $100 million in new U.S. funding for humanitarian assistance
+    - Israel's decision on allowing aid into Gaza
+    - Impact on relations with Arab leaders and potential consequences for normalization agreements
+- U.S. Politics
+  - Ohio Representative Jim Jordan's bid for House Speaker
+  - Challenges in the selection of the next House Speaker
+- Economic Impact
+  - Global Markets and Stocks
+    - Long-term bond yields reaching a 16-year high
+    - Impact on U.S. stocks
+  - Earnings Reports
+    - Earnings reports from Tesla, Netflix, and Morgan Stanley
+  - Chinese Economic Growth
+    - Third-Quarter GDP
+    - Mixed results in China's third-quarter GDP
+    - Potential impact on global economic growth
+  - Amazon's Technological Developments
+    - AI and Robotics in Warehouses
+    - Introduction of AI-equipped sorting machines and robotic arms
+    - Emphasis on safety benefits and efficiency
+- Social Media Innovation
+  - Elon Musk's X Platform
+  - Testing a subscription model
+  - Approach to addressing bots
+
+### 19/10/2023
+
+From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list):
