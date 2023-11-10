@@ -836,4 +836,159 @@
 
 ### 23/10/2023
 
+### 24/10/2023
+
+### 25/10/2023
+
+### 26/10/2023
+
+### 27/10/2023
+
+### 30/10/2023
+
+### 31/10/2023
+
+### 01/11/2023
+
+### 02/11/2023
+
+### 03/11/2023
+
+- Legal Case Against Sam Bankman-Fried:
+  - Verdict on Charges
+    - Sam Bankman-Fried found guilty on all seven charges.
+  - Testimony and Defense Strategies
+    - Former allies testified against Bankman-Fried.
+    - Risky move with Bankman-Fried testifying in his defense.
+  - Potential Sentencing
+    - Bankman-Fried could face decades in prison.
+    - Sentencing scheduled for March of next year.
+  - Possibility of Appeal
+    - Broad expectation of an appeal.
+- US House Aid Package for Israel:
+  - Amount and Purpose of Aid
+    - $14 billion aid package passed by House Republicans for Israel.
+  - Political Divisions on the Bill
+    - Passed largely along party lines.
+    - Democrats opposed due to removal of funds for IRS and lack of aid for Ukraine and Taiwan.
+  - Senate Democrats' Response
+    - House bill likely to face challenges in the Senate.
+    - Democrats preparing a larger package, including Ukraine aid.
+- Donald Trump's Legal Situation:
+  - Gag Order Appeal
+    - Trump requests the lifting of a gag order.
+    - Gag order reinstated, restricting Trump's speech in the case.
+  - Allegations and Case Details
+    - Trump accused of attempting to overturn the 2020 election.
+    - Verbal attacks on individuals involved in criminal cases against him.
+  - Trump's Response and Denial
+    - Trump denies any wrongdoing.
+    - Focus on court appearances and legal battles.
+- Jobs Report and Economic Indicators:
+  - October Hiring Numbers
+    - Hiring slowed sharply, adding 150,000 jobs.
+  - Labor Market Trends
+    - Labor market indicates a potential slowdown.
+    - Federal Reserve Chair points to a cooling labor market.
+  - Corporate Cost-Cutting Measures
+    - Maersk announces job cuts amid a 56% drop in shipping business.
+    - Apple reports revenue declines for the fourth consecutive quarter.
+- Apple's Financial Performance:
+  - Revenue Declines
+    - Apple experiences a decline in revenue for four consecutive quarters.
+  - Market Challenges in China
+    - Sales in China severely impacted by economic slowdown and competition from Huawei.
+  - Sales and Decline in Mac Sales
+    - Significant decline in Mac sales, over 33% annually.
+    - Announcement of a new line of Macs with faster chips.
+- Artificial Intelligence and Brad Smith's Interview:
+  - Risks and Concerns Surrounding AI
+    - Brad Smith addresses concerns of AI risks, including the potential misuse for disinformation and biological weapons.
+  - Need for Regulation and Safety Measures
+    - Emphasis on the importance of creating safety mechanisms, including an on-off switch for AI.
+    - Discussion on the need for AI regulation.
+  - Government's Role in AI Oversight
+    - Smith advocates for government involvement in creating regulatory frameworks.
+    - Highlighting the role of governments in protecting public safety.
+  - Balancing AI Benefits and Risks
+    - Acknowledging the transformative benefits of AI while balancing potential risks.
+    - Emphasizing the need for collaboration between the public and private sectors.
+- Upcoming 2024 US Presidential Election:
+  - Potential Biden-Trump Rematch
+    - Anticipation of a likely rematch between Biden and Trump.
+  - Biden's Vulnerabilities and Approval Ratings
+    - Concerns about Biden's age and doubts about his ability to handle the job.
+    - Significant disapproval of Biden's handling of the economy.
+  - Trump's Legal Challenges and Primary Prospects
+    - Trump consolidates support among Republicans despite ongoing legal challenges.
+    - Primary challenge from figures like Ron DeSantis and Nikki Haley.
+  - Voter Sentiments and Third-Party Factors
+    - Voters express dissatisfaction with both Biden and Trump.
+    - Potential for third-party candidates to impact outcomes in key states.
+- Daylight-Saving Time and Seasonal Affective Disorder:
+  - Impact on Mood and Body
+    - Changes in daylight hours affecting brain chemistry.
+    - Decreased sunlight linked to increased melatonin and decreased serotonin.
+  - Coping Strategies
+    - Recommendations to anticipate changes and seek natural sunlight exposure.
+    - Use of special lamps to simulate daylight without harmful UV rays.
+  - Suggestions for Adapting to the Time Change
+    - Placement of desks or exercise machines near windows for natural light.
+    - Maintaining a consistent sleep schedule and creating a cozy atmosphere with candles.
+    - Advice to seek professional help if seasonal affective disorder symptoms become severe.
+
+### 06/11/2023
+
+- International Diplomacy:
+  - Antony Blinken's diplomatic efforts in the Middle East.
+  - Israel-Hamas ceasefire negotiations.
+  - Regional tensions.
+- Chinese Consumer Behavior:
+  - Impact of COVID on Chinese consumers.
+  - Economic challenges and household balance sheets.
+  - Decreased spending by Chinese consumers.
+- US Southern Border and Migration:
+  - Migrants arriving at the US southern border.
+  - Global nature of illegal migration.
+  - Increased numbers and challenges faced by US authorities.
+- Business Impact in China:
+  - Declining sales of foreign brands in China.
+  - Factors contributing to the decline.
+  - Examples of companies affected (Apple, Estee Lauder, Canada Goose, Yum China).
+- Middle East Conflict:
+  - US stance on Israel's right to defend itself.
+  - Arab leaders' calls for a cessation of violence.
+  - Challenges in finding a diplomatic solution.
+- Hurricane Otis and Climate Change:
+  - Rapid intensification of Hurricane Otis.
+  - Challenges in forecasting.
+  - The potential link between intensification and climate change.
+- Economic Impact of Oil Price Cap:
+  - Russian oil revenues and the impact of the G7 oil-price cap.
+    Russia's military spending plans.
+    Factors influencing oil prices.
+    Leadership Changes in Business:
+
+Whitney Wolfe Herd stepping down as Bumble's CEO.
+Lidiane Jones succeeding as the new CEO.
+Industry challenges for dating apps.
+Income Disparities Among Foreign-Born Workers:
+
+Foreign-born workers in the top 1% of wage earners.
+Widening pay gap between foreign-born and US-born workers.
+Geographic factors influencing income disparities.
+Corporate Responses to Global Issues:
+
+Employees' criticism of companies' responses to global issues.
+CEO reluctance to take a stand on social and political issues.
+Impact on employee-employer relationships.
+
+### 07/11/2023
+
+### 08/11/2023
+
+### 09/11/2023
+
+### 1 0/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
