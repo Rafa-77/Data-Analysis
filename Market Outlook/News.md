@@ -1119,4 +1119,47 @@
 
 ### 10/11/2023
 
+- Meta's Expansion into China
+  - Preliminary deal with Tencent
+  - VR headset market challenges in China
+  - Uncertainties and hurdles
+- US-China Relations
+  - Talks between US Treasury Secretary Janet Yellen and Chinese Vice Premier
+  - Concerns about economic slowdown and potential Chinese responses
+  - Cybersecurity issues and a ransomware attack on a Chinese bank affecting US bonds
+- Shift in Latin American Alliances
+  - Uruguay turning to China
+  - Frustration with the US
+  - Factors contributing to the shift, including economic interests and geopolitical considerations
+- Novo Nordisk's Production Boost
+  - Investment in boosting production of obesity and diabetes drugs
+  - Challenges and limitations leading to shortages
+  - Impact on patients and alternative solutions
+- Deepfake Threats
+  - Rise of AI-powered deepfake technology
+  - Incidents involving deceptive ads and scams
+  - Challenges for platforms and potential risks for individuals
+- Israel-Hamas Conflict
+  - Israeli ground forces advancing into Gaza
+  - Challenges in destroying Hamas, including tunnel complexes
+  - International pressure, humanitarian concerns, and government goals
+- US-China Summit
+  - Confirmation of a summit between President Biden and Chinese leader Xi Jinping
+  - Expected agenda items and potential areas of tension
+  - Modest expectations for the summit
+- Rising Costs of Green Energy
+  - Increasing costs in the transition to green energy
+  - Impact on investors and the need for economic viability
+  - Balancing affordability, sustainability, and reliability
+- Risks in Private Credit Boom
+  - Private credit market trends and shifts from banks to private funds
+  - Risks associated with lack of transparency and disclosure
+  - Analysis of private corporate borrowers and potential challenges
+- Disney's Channel Review
+  - Disney's consideration of fewer TV networks
+  - Identification of valuable and less critical channels
+  - Potential impact on the company's future strategy
+
+### 11/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
