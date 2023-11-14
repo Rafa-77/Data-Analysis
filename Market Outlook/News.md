@@ -1234,4 +1234,43 @@
 
 ### 14/11/2023
 
+- Goverment Funding Plan:
+  - House considering government funding plan
+  - Potential shutdown approaching
+  - New Speaker Mike Johnson's funding proposal
+  - GOP lawmakers' stance on the deal
+  - Market sentiment on potential shutdown
+- Climate Change Economic Damage:
+  - Washington puts a price tag on climate change's economic damage
+  - U.S. National Climate Assessment report
+  - Increased frequency of extreme weather events
+  - Recommendations for clean energy investments
+  - Federal grants for upgrading the U.S. power grid
+- Inflation and Interest Rates:
+  - Federal Reserve's interest rate hikes
+  - Impact on small businesses
+  - Challenges for small business owners
+  - Analysts cutting earnings estimates
+  - Investors' focus on interest rates over earnings
+- Market Reaction:
+  - Stock market and bond market response
+  - Dow, S&P 500, Nasdaq performance
+  - Rally in Treasuries
+  - Investors' reaction to inflation reports
+  - Earnings estimates and market expectations
+- House Approval of Funding Plan:
+  - Approval of short-term plan to extend government funding
+  - Republican plan to avert a government shutdown
+  - Speaker Mike Johnson's role
+  - Senate's consideration and potential support
+  - Efforts to finalize individual spending bills
+- Historic Overturn of Convictions:
+  - US Army overturns convictions of 110 Black soldiers
+  - Texas riot in 1917
+  - Clemency petition and review of convictions
+  - Contradictions in the prevailing narrative
+  - Recognition of the wrong done and potential benefits for relatives
+
+### 15/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
