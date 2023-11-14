@@ -1162,4 +1162,76 @@
 
 ### 11/11/2023
 
+- Intelligence Failure Regarding Hamas' Attack
+  - global intelligence failed to foresee Hamas' attack.
+  - Israel's belief in a new era, and Hamas' calculated actions.
+- Civilian Protection in the Israel-Hamas War
+  - what else the IDF can do to protect civilians.
+  - challenges of avoiding civilian casualties, rules of war, and Hamas operating from densely-packed civilian areas.
+- Israeli Arab Perspective
+  - exclusion of the Israeli Arab population from discussions.
+  - acknowledgment of the fair point, the conflicted feelings of Israeli Arabs, and the challenges they face.
+- Regional Reactions to the Conflict
+  - divisive time in the Middle East.
+  - range of responses from the Israeli Arab community.
+- Broader Impact of the War
+  - potential escalation and which side countries might fall on.
+  - positions of regional powers, China, and Russia.
+- Iran's Role and Relations with the US
+  - future of US-Iran relations given their roles in the conflict.
+  - existing strained relations and Iran's approach to the conflict.
+- Financial Impact of the Conflict
+  - industries or businesses affected by the conflict.
+  - impact on defense companies, tech sector, and airlines.
+
+### 13/11/2023
+
+- Gaza Crisis
+  - Al-Shifa Hospital conditions
+  - Displaced people stuck inside
+  - Allegations of Hamas operating at the hospital
+  - Suspension of talks for hostages' release
+  - US and Israeli differences over a postwar solution
+- US Presidential Race
+  - Senator Tim Scott's withdrawal
+  - Dominance of former President Donald Trump in GOP race
+- Global Market
+  - Year-end market rally optimism
+  - S&P 500's best two weeks
+  - Investors abandoning bearish wagers
+- Government and Political Changes
+  - UK government shakeup
+  - David Cameron as foreign secretary
+  - Sacking of Suella Braverman
+  - Attempt to tilt the party toward the political center
+- Rare-Earth Discovery in Wyoming
+  - Former Wall Street banker's purchase of a coal mine
+  - Discovery of rare-earth elements
+  - Significance for green energy transition
+  - Chinese export controls on related minerals
+  - Potential resource security for the US
+- Google's Lawsuit and Cybersecurity
+  - Google cracking down on AI ads
+  - Lawsuit against scammers in India and Vietnam
+  - Cyberattacks on Australia's largest ports
+  - Resumption of port operations after cyberattacks
+- Market and Investment Trends
+  - Year-end market rally optimism
+  - S&P 500's best two weeks
+  - Investors abandoning bearish wagers
+  - Disney's Marvel film opening weekend performance
+- FDIC Investigation
+  - Toxic atmosphere and allegations of harassment
+  - FDIC's response and internal assessment
+  - Impact on employees and their reporting experiences
+  - Exxon's move into the lithium business
+- Middle East Tensions
+  - Warnings of a wider war
+  - Cross-border attacks by Hezbollah and Israeli military
+  - Strikes by Iran-backed militias in Syria and Iraq
+  - Ongoing Israeli assault on Gaza
+  - Supreme Court's issuance of a code of conduct
+
+### 14/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
