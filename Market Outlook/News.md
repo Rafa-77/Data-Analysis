@@ -1273,4 +1273,42 @@
 
 ### 15/11/2023
 
+- Israel's Raid on Gaza's Al-Shifa Hospital:
+  - Israeli military operation in Gaza's Al-Shifa Hospital.
+  - White House and Pentagon support Israel's assertions.
+  - Defense Department's statement about the use of hospitals by Palestinian militants.
+  - U.S. officials' response and Hamas denial.
+- Biden-Xi Jinping Meeting:
+  - Meeting between President Biden and China's Xi Jinping.
+  - Tensions in U.S.-China relations.
+  - Anticipated outcomes and significance of the meeting.
+  - Lingling Wei's analysis on the meeting, potential outcomes, and issues discussed.
+  - Beijing's priorities, including technology transfer, Taiwan, and export controls.
+  - Economic pressure on the Chinese leadership.
+- U.S. Retail Sales and Economic Indicators:
+  - Texas approves a bill allowing the arrest, jail, and deportation of migrants crossing the U.S.-Mexico border.
+  - U.S. retail sales figures for October show a 0.2% decline, the first drop since March.
+  - Possible reasons for the decline, including changing labor market dynamics and technology impact.
+  - Market trends in Asia and Europe following the U.S. rally.
+  - General Motors' proposed labor agreement faces rejection by some United Auto Workers members.
+  - Phoenix's Sky Harbor International ranked as America's best airport.
+  - Challenges faced by airlines in hiring pilots amid soaring travel demand.
+- FCC Rule on Internet Service Providers:
+  - FCC's new rule holding internet service providers liable for digital discrimination.
+  - Criticisms from internet service providers and GOP lawmakers.
+  - Regulation's implications for business practices, scrutiny on various actions.
+  - Broadband access issues and the FCC's role in scrutinizing discriminatory actions.
+- Air Traffic Control Safety Issues:
+  - Hazards faced by the U.S. air traffic control system.
+  - Short staffing, outdated technology, and chronic underfunding.
+  - Federal report's findings on safety issues and recommendations.
+  - Calls for exempting the FAA from government shutdowns.
+- Shijiazhuang's Bid as China's Premier Rock Destination:
+  - Shijiazhuang's effort to brand itself as China's premier rock destination.
+  - Past clashes between rock culture and bureaucrats in the city.
+  - Approval of songs and performances to boost tourism and spending.
+  - Mixed feelings among concertgoers and the delicate balance between official approval and genuine rock music.
+
+### 16/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
