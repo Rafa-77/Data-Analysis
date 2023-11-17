@@ -1311,4 +1311,40 @@
 
 ### 16/11/2023
 
+- US-China Summit:
+  - President Biden and Xi Jinping had a summit in California.
+  - Discussions were constructive but challenges persist.
+  - Agreement on the restoration of military-to-military communications.
+  - Domestic Perception in China:
+    - Importance of the meeting for Xi in managing relations.
+    - Chinese desire for stability in the US-China relationship.
+  - Specific Agreements:
+    - Tangible Outcomes:
+    - Restoration of military-to-military communications.
+    - Cooperation on combating fentanyl production.
+  - US-China Economic Relations:
+    - Economic Cooperation and Competition:
+    - Xi's rejection of "major country competition."
+    - Challenges in economic relations, including export restrictions.
+- Gaza's Largest Hospital Operations:
+  - Israeli forces' operations at Al-Shifa Hospital.
+  - High stakes and controversies surrounding the operation.
+  - Future Expectations in Gaza:
+    - Possibility of expanding operations in other areas.
+    - Concerns about further airstrikes and potential escalation.
+- Short-Term US Spending Bill:
+  - Senate approval of a short-term spending bill.
+  - Postponement of larger budget debates.
+- Investigation into White House Documents:
+  - Investigation into the handling of classified documents.
+  - Special Counsel Robert Hur's critical report preparation.
+- China's Food Import Trends:
+  - China's significant spending on foreign produce.
+  - Shifts in agricultural activities, such as durian cultivation in Vietnam.
+- Wells Fargo and Financial Crime:
+  - Regulators' concerns about Wells Fargo's oversight.
+  - Formal orders to improve systems for monitoring financial crime.
+
+### 17/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
