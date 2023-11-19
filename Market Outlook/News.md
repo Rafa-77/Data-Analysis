@@ -1347,4 +1347,77 @@
 
 ### 17/11/2023
 
+- Gaza Crisis:
+  - UN's World Food Programme warns of widespread hunger.
+  - Israel's raid on Al-Shifa hospital and diplomatic pressure.
+  - Israel's claim of hospital as a Hamas command center.
+  - Challenges and implications for Israel's actions.
+- US-China Relations:
+  - Alibaba's Cloud spinoff plans affected by US export controls.
+  - Impact of Biden Administration's restrictions on China.
+- Antisemitism and Social Media:
+  - IBM suspends advertising on social media platform X.
+  - Allegations of ads appearing near antisemitic content.
+  - Elon Musk's association with antisemitic conspiracy theory.
+- Google Antitrust Case:
+  - Historic antitrust case against Google.
+  - Judge Amit Mehta's uncertainty in ruling.
+  - Allegations of Google using illegal agreements to sideline rivals.
+- Ukraine and Russia Conflict:
+  - President Zelenskyy's warning of Russian missiles.
+  - Winter challenges in Ukraine.
+  - US military aid package for Ukraine facing opposition in Congress.
+- US Political Landscape:
+  - Mitch McConnell's Role:
+    - McConnell's efforts to unstick US military aid package for Ukraine.
+    - McConnell's alignment with the Biden Administration.
+    - McConnell's argument for a comprehensive approach to global threats.
+  - Congressional Dynamics:
+    - Bipartisanship challenges in passing aid packages.
+    - Republican opposition and division over aid distribution.
+  - External Pressure:
+    - Donald Trump's influence on Republican views regarding Ukraine aid.
+    - External factors affecting decision-making in Congress.
+  - International Aid and Support:
+    - European Support for Ukraine:
+    - Germany's plan to double military aid to Ukraine.
+    - EU's economic aid to Ukraine.
+    - Challenges in meeting the goal of providing artillery shells.
+- Oil Prices and Economic Impact:
+  - Decline in oil prices and its implications.
+  - Preview of elections in inflation-racked Argentina.
+  - Economic crisis in Argentina and its implications for IMF relations.
+- Leadership Changes at OpenAI:
+  - Co-founder Sam Altman steps down as chief executive.
+  - Board's loss of confidence in Altman's leadership.
+  - Mira Murati appointed interim CEO.
+- Foreigners and US Treasury Debt:
+  - Decreased foreign appetite for US government debt.
+  - Foreign ownership reduced from 43% to 30% in a decade.
+  - Japan and China easing off due to currency pressures.
+  - Impact on the US government's large deficits and bond issuance.
+- Estée Lauder Succession Rift:
+  - Succession dispute threatens Estée Lauder beauty empire.
+  - Strategic differences between Leonard Lauder and current leadership.
+  - Focus on China expansion, pandemic recovery challenges, and consumer trends.
+  - Stock plunge and investor concerns.
+- Labor Deals with Automakers:
+  - United Auto Workers union secures worker backing for labor contracts.
+  - Negotiations with Ford and Stellantis nearing resolution.
+  - Details of the new four and a half year pact.
+- Amazon's Workforce Changes:
+  - Amazon cuts several hundred positions related to Alexa in the US, Canada, and India.
+  - Shift towards generative AI aligning with business priorities.
+  - Reduction in headcount in various regions.
+- Ultra Processed Foods and Dietary Guidelines:
+  - US government's preparation of new dietary guidelines.
+  - Scientific advisory committee's consideration of ultra processed foods.
+  - Ultra processed foods constitute 58% of calories consumed.
+  - Concerns and research linking such foods to health problems.
+- Aurora Supercomputer Unveiling:
+  - Aurora, the most powerful supercomputer, becomes operational.
+  - Located at the Energy Department's Argonne National Laboratory.
+  - Collaboration with AI and automated labs for various applications.
+  - Expected to perform two quintillion operations per second.
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
