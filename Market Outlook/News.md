@@ -1508,4 +1508,63 @@
 
 ### 22/11/2023
 
+- OpenAI Leadership Turmoil
+  - Sam Altman's return as OpenAI's CEO
+  - Board's decision to fire Altman
+  - Investors' and staff's push for Altman's reinstatement
+  - Changes in the board composition
+  - Investigation into Altman's Conduct
+    - Board's claim of unspecified conduct leading to Altman's ouster
+    - Altman's agreement to an independent investigation into the claims
+  - Microsoft's Role and Involvement
+    - Microsoft's significant investment in OpenAI
+    - Satya Nadella's role in negotiations for Altman's return
+    - Uncertainty about Microsoft's role in the expanded board
+  - Mission and Governance of OpenAI
+    - OpenAI's altruistic founding intent
+    - Tension around the company's mission and commercialization of AI
+    - Potential changes in the board affecting the company's future direction
+  - Employee Reactions and Resolutions
+    - Employees' initial reactions to Altman's firing
+    - Speculation about Sam and Greg Brockman moving to Microsoft
+    - Reactions to Altman's reinstatement and potential resolution of tensions
+- Israel-Hamas Hostage Deal
+  - Agreement between Israel and Hamas
+  - Release of 50 hostages
+  - Conditions and terms of the deal
+    - Temporary ceasefire for the release process
+- Fed's Concerns Over Inflation
+  - Federal Reserve officials' refusal to rule out rate hikes
+  - Fretting over the possibility of stronger-than-anticipated inflation
+- Nvidia's Earnings and AI Chip Frenzy
+  - Nvidia's record-breaking sales
+  - AI chip frenzy contributing to sales growth
+  - Challenges related to new rules on exports to China impacting sales
+- Battery Metals Price Decline
+  - More than 60% fall in battery-grade Lithium prices
+  - Impact on the production of electric vehicles
+  - Economic factors affecting battery metals prices
+- US Federal Reserve and Interest Rates
+  - Federal Reserve's consideration of raising interest rates
+  - Concerns about higher-than-expected inflation and lower-than-expected growth
+  - Market expectations for rate cuts in 2024
+- Health Insurers' Role in Drug Prices
+  - Senators' call for an investigation into health insurers
+  - High prices for generic drugs for serious diseases
+  - Relationship between health insurers and pharmacies
+- Consumer Spending During the Holiday Season
+  - Americans' concerns about the economy
+  - Deloitte survey on holiday spending intentions
+  - Factors driving continued growth in consumer spending
+  - Comparison to previous holiday seasons
+- Ocean Spray's Business Model
+  - Ocean Spray's co-op structure
+  - Ownership by 700 farming families
+  - Profit distribution back to farmers
+  - Success attributed to the co-op business model
+
+### 23/11/2023
+
+### 24/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
