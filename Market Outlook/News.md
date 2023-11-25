@@ -1420,4 +1420,92 @@
   - Collaboration with AI and automated labs for various applications.
   - Expected to perform two quintillion operations per second.
 
+### 20/11/2023
+
+- OpenAI Board Drama:
+  - Ousted CEO Sam Altman's failed bid for reinstatement.
+  - Reasons for Altman's dismissal (mounting loss of trust, communication issues).
+  - Weekend negotiations, employees and investors pushing for Altman's return.
+  - Appointment of interim CEO Emmett Shear.
+- Microsoft and OpenAI Relationship:
+  - Altman and OpenAI President Greg Brockman joining Microsoft.
+  - Microsoft's stake in OpenAI.
+  - Potential competition and collaboration between Microsoft and OpenAI.
+- Advertisers Ditching Social Media:
+  - Major entertainment players pausing ads on social media (formerly Twitter).
+  - Reasons for the advertiser exodus (ads appearing next to controversial content).
+  - Business challenges for the platform owner, Elon Musk.
+- Decline in Green and Sustainable Investments:
+  - Wall Street withdrawing funds from ESG (Environmental, Social, Governance) funds.
+  - Third-quarter trends: more funds liquidated than added.
+  - Growing political backlash against ESG investing.
+- Challenges in Clean Energy Startups:
+  - Struggles of clean energy startups in obtaining government funding.
+  - Catch-22 scenarios for startups in talks to receive funding.
+  - Bankruptcies and financial challenges in the electric vehicle sector.
+- Electric Vehicle (EV) Market Plateau:
+  - Overview of the dramatic growth in the EV market until 2020.
+  - Recent plateau in EV sales.
+  - Factors contributing to the market weakening (affordability, charging concerns).
+  - Reduction in EV prices and the response from car makers.
+
+### 21/11/2023
+
+- Earnings Report and Stock Market
+  - Nvidia's upcoming earnings report
+  - Stock market performance, especially Nvidia's rise
+- GM's Self-Driving Car Unit (Cruise)
+  - Sudden management changes at Cruise
+  - Issues and challenges faced by GM's Cruise unit
+- US Home Sales and Federal Reserve Impact
+  - Forecast for 13-year low in US home sales
+  - Impact of Federal Reserve rate hikes on the housing market
+- OpenAI and Leadership Changes
+  - Recent management changes at OpenAI
+  - Ouster of co-founder and CEO Sam Altman
+- Nvidia's AI-Powered Semiconductors
+  - Nvidia's significant growth in the AI market
+  - Functional monopoly in selling AI-powered semiconductors
+- General AI Opportunities in the Market
+  - Optimism about AI investments in various companies
+  - Big tech companies investing in AI and market trends
+- GM's Cruise Unit Challenges
+  - Alarming mishaps involving Cruise self-driving cars
+  - CEO and co-founder resignations, impacting GM's plans
+- SEC Charges Against Kraken
+  - Kraken's alleged operation as an unregistered securities exchange
+  - SEC's crackdown on crypto companies violating regulations
+- China's Property Sector Support
+  - Chinese authorities' plans to support property developers
+  - Impact and skepticism regarding the effectiveness of support measures
+- US Housing Sector Challenges
+  - Rising rents in the single-family home market
+  - Potential effects on consumer mobility and spending
+- Federal Appeals Court Ruling on Voting Rights
+  - Ruling restricting private citizens' right to sue over voting discrimination
+  - Implications for voting rights and legal claims under the Voting Rights Act
+- Binance CEO Pleads Guilty
+  - Changpeng Zhao stepping down and pleading guilty
+  - Settlement details and fines related to Binance's violations
+- Israel and Hamas Hostage Deal
+  - Potential agreement between Israel and Hamas for releasing hostages
+  - Diplomatic developments in the Israel-Hamas conflict
+- OpenAI Turmoil and Employee Resignation Threats
+  - Turmoil following management changes at OpenAI
+  - Employee threats to resign if the board doesn't reinstate Sam Altman
+- US Housing Affordability and Existing Home Sales
+  - Affordability challenges in the housing market
+  - Decline in existing home sales and market conditions
+- Nvidia's Record Sales and Positive Outlook
+  - Nvidia's record-breaking sales in the latest quarter
+  - Positive sales forecast, indicating strong investments in AI
+- Kids and Money in the Digital Age
+  - Influence of online content on kids' understanding of money
+  - Kids' engagement with virtual and real-world money
+  - New Money Rules for Kids Podcast Series
+  - Exploration of kids' interactions with money in the modern era
+  - Insights from young entrepreneurs and financial experts
+
+### 22/11/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
