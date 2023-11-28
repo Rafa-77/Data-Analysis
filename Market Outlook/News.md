@@ -1563,8 +1563,78 @@
   - Profit distribution back to farmers
   - Success attributed to the co-op business model
 
-### 23/11/2023
-
 ### 24/11/2023
+
+- Ceasefire between Israel and Hamas
+  - Aid flow into Gaza
+  - Release of hostages
+  - Conditions of hostages
+- Strikes at Tesla's operations in Sweden
+  - Length and impact of strikes
+  - Elon Musk's response
+  - Potential global repercussions
+  - Elon Musk's comments on strikes in Sweden
+    - Musk's stance on workers' rights
+    - Sympathy strikes and their impact
+    - Potential consequences for Tesla
+- Challenges for the Toy Industry on Black Friday
+  - Shift in consumer spending from goods to services
+  - Impact on toy sales
+  - Strategies of toy makers
+  - Challenges and expectations for the toy industry during the holiday season
+    - Transition from pandemic-related demand to reduced demand
+    - Impact of changing consumer priorities
+    - Anticipation of a softer holiday season
+  - Impact of online entertainment on toy sales
+    - Utilization of digital avenues by toy makers
+    - Success of digital products
+    - Balance between physical and digital toys
+  - Forecast of drop in revenues for Hasbro and Mattel
+    - Factors contributing to the drop
+    - Importance of legacy products and big brands
+    - Industry trends and consumer behavior
+  - Performance of Lego in the toy industry
+    - Variety in offerings across age groups
+    - Constant innovation and new set releases
+    - Standout success in the toy industry
+- China provides data on pneumonia outbreak among children
+  - WHO's request for data
+  - Chinese response and data provided
+  - Explanation of pneumonia outbreak
+
+### 27/11/2023
+
+- International Relations:
+  - Negotiations between Israel and Hamas
+  - Truce extension discussions
+  - Overview of the Israel-Hamas conflict
+  - Truce Negotiations:
+    - Extension talks
+    - Conditions for truce extension
+  - Original Deal Overview:
+    - Hostage exchange
+    - Release of Palestinian prisoners
+- Economic Trends:
+  - Black Friday sales increase
+  - Changing payment methods affecting retailers
+  - Impact of consumer behavior on retail
+  - Sales Increase:
+    - Black Friday statistics
+    - Key sectors driving sales
+  - Payment Method Impact:
+    - Changes in consumer payment behavior
+    - Limbo for some retailers
+- Climate and Environment:
+  - Positive news in green technology
+  - Growth in renewable energy
+  - Expectations exceeded in green tech sector
+  - Renewable Energy Growth:
+    - Faster-than-expected growth
+    - Cost reductions in solar and wind power
+  - Positive Climate News:
+    - Exceeding expectations in green tech
+    - Potential impact on reducing fossil fuel consumption
+
+### 28/11/2023
 
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
