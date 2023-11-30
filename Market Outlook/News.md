@@ -1637,4 +1637,78 @@
 
 ### 28/11/2023
 
+- Business News
+  - Shein's IPO
+  - China's Economic Growth
+    - Shein files for a significant IPO in the U.S.
+  - Sustainable Fuel in Transatlantic Flight
+- Government and Economy
+  - Germany's Fiscal Freeze
+    - Germany freezes federal budget, facing economic challenges.
+    - Impact on Europe's Economic Recovery
+    - Fiscal Challenges in Various Countries
+    - Comparison with the U.S.
+  - Legal and Regulatory Issues
+    - Binance Founder's Case
+    - Detention of Wall Street Journal Reporter in Russia
+- Media and Journalism
+  - Decline in Newspapers
+  - Challenges in the News Industry
+- Workforce and Workplace
+  - Federal Government's Struggle to Bring Workers Back
+  - McKinsey's Diversity and Inclusion Data
+    - Reversal in the promotion of Black professionals.
+  - Black Professionals' Promotions
+- Leadership and Corporate Moves
+  - Charlie Munger's Death
+    - Charlie Munger, Vice Chairman of Berkshire Hathaway, dies at 99.
+  - Nikki Haley's Endorsement by Koch Network
+  - Bob Iger's Comments on Disney's Future
+    - Disney CEO Bob Iger addresses potential asset sales and outlines plans for the company's future.
+    - No decisions made about Disney's future.
+
+### 29/11/2023
+
+- Israel-Hamas Truce Negotiations
+  - Negotiators push for a long-term Israel-Hamas truce.
+  - Temporary ceasefire extended by 48 hours.
+  - Final day of the temporary ceasefire.
+  - Long-term truce negotiations face challenges and may require concessions.
+- Apple Ends Credit Card Partnership with Goldman Sachs
+  - Apple exits consumer partnership with Goldman Sachs.
+  - Swift about-face from a program extended through 2029.
+  - Uncertain if Apple has a new credit card issuer.
+  - Setback for Apple's services business.
+- Legacy of Berkshire Hathaway's Charlie Munger
+  - Charlie Munger, Vice Chairman of Berkshire Hathaway, dies at 99.
+  - Munger's instrumental role in Berkshire Hathaway's success.
+  - Munger's impact on Warren Buffett's investment philosophy.
+  - Reflection on Munger's legacy and influence on Berkshire's future.
+- Business and Tech Trends
+  - Tech industry's "micro cuts" trend.
+  - Mass layoffs replaced by smaller job cuts in tech giants.
+  - Mental health crisis in the U.S. drives suicides to a record high.
+    - Factors: Economic upheaval, isolation, shortage of healthcare workers.
+    - Challenges in reaching certain demographics.
+- Supreme Court Case on SEC's In-House Court System
+  - Supreme Court hears case on SEC's use of in-house court system.
+  - Criticisms of robbing defendants of the right to a jury trial.
+  - SEC defends the efficiency and constitutionality of its courts.
+  - Potential impact on other federal agencies with in-house courts.
+- Okta Data Breach Update
+  - Okta reveals hackers stole data for all customer support system users.
+  - Initial estimate of less than 1% affected proved inaccurate.
+  - Information compromised includes name and email for the majority.
+  - Updates provided as part of new SEC rules on cyber attack disclosures.
+- International Incident: Indian Government's Assassination Attempt
+  - Indian government employee charged with plotting an assassination in New York.
+  - Target is a critic advocating for an independent Sikh homeland.
+  - Arrested in the Czech Republic.
+  - Impact on U.S.-India relations and ongoing investigations.
+- Astronomical Discovery: New Star System
+  - Star system discovered a hundred light years away.
+  - Six gaseous worlds orbiting a sun-like star.
+  - Unusual stability in planetary orbits for at least 4 billion years.
+  - Aids astronomers in understanding planetary system formation and evolution.
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
