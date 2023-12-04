@@ -1763,4 +1763,74 @@
     - Duolingo, Strava, and Yelp Examples
     - Shared Interests as Conversation Starters
 
+### 01/12/2023
+
+- Middle East Conflict
+  - Ongoing fighting in Gaza after a cease-fire stalls
+  - Negotiations between Israel and Hamas
+  - Issues with the release of hostages leading to the breakdown of the cease-fire
+- Tesla's Cybertruck Launch
+  - Unveiling of Tesla's Cybertruck by Elon Musk
+  - Delayed release and higher pricing than initially promised
+  - Public reaction and market response to the Cybertruck launch
+- Global Oil Market
+  - OPEC+ agreement on significant production cuts
+  - Market reaction to the OPEC+ decisions
+  - Concerns and uncertainties about the long-term commitment to production cuts
+- Legal Battles Involving TikTok
+  - TikTok's legal challenges, specifically in Montana
+  - Judge's decision to grant TikTok a reprieve from the state law
+  - Implications and potential legal precedents for TikTok
+- US-Japan Dispute Over Osprey Aircraft
+  - US Osprey aircraft crash in Japanese waters
+  - Japan's concerns about the safety of Osprey aircraft
+  - Disagreements between the US and Japan over grounding the Osprey fleet
+- Political Developments in Congress
+  - Expulsion of Representative George Santos from Congress
+  - Impact on the Republican majority in the House
+  - The process of filling Santos's vacant seat
+- Death of Sandra Day O'Connor
+  - Sandra Day O'Connor's legacy as the first woman appointed to the US Supreme Court
+  - Announcement of her death at the age of 93
+  - Reflections on O'Connor's influence during her tenure
+- Streaming Service Partnerships
+  - Apple and Paramount Global discussing bundling their services
+  - The trend of streaming services partnering for bundled offerings
+  - Strategies to attract and retain subscribers in a competitive streaming market
+- Evergrande's Restructuring Negotiations
+  - Evergrande's negotiation of an 11th-hour restructuring deal
+  - Potential consequences of failure to reach a deal
+  - Evergrande's role in China's real estate crisis
+- Israeli Plan to Eliminate Hamas Leaders
+  - Israel's plan to eliminate Hamas leaders globally
+  - Challenges and complications involved in targeting leaders outside of Israel
+  - Debates about the effectiveness and risks of such a strategy
+- Weekly Markets Roundup
+  - Discussion of market movements during the past week
+  - Impact of Black Friday and Cyber Monday on specific stocks
+  - Analysis of Tesla's Cybertruck launch and its effects on investors
+  - Insights into General Motors' investor concerns and the company's response
+
+### 02/12/2023
+
+- Market Overview and Trends
+  - November stock market performance
+  - End of a three-month losing streak
+  - Anticipation of a Santa rally in December
+- Black Friday and Cyber Monday Impact on Retailers
+  - Shopify's record-breaking sales during Black Friday and Cyber Monday
+  - Stock market response to Shopify's sales announcement
+  - Increased use of buy now pay later options like Affirm, Klarna, and Afterpay
+  - Report on buy now pay later options driving online spending on Black Friday
+- Automakers' Stock Movements
+  - General Motors' $10 billion stock buyback plan
+  - Investors' concerns about GM, including worker contract costs and setbacks in new pursuits
+  - Positive market reaction to GM's stock buyback announcement
+- Tesla's Cybertruck Launch
+  - Debut of Tesla's Cybertruck after a long-awaited release
+  - Unique features and challenges of the Cybertruck design
+  - Price increase and investors' reaction to the Cybertruck launch
+
+### 04/12/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
