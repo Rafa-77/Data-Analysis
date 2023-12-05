@@ -1833,4 +1833,55 @@
 
 ### 04/12/2023
 
+- International Relations:
+  - Maritime attacks in the Red Sea
+  - Iran's warning of a widening war
+  - Pentagon threatening retaliation
+- Business and Economy:
+  - Spotify layoffs
+  - OxyContin creators facing the Supreme Court
+  - Purdue Pharma's opioid settlement
+  - Bitcoin's rally to a 19-month high
+  - Alaska Air purchasing Hawaiian Airlines
+- Journalism and Press Freedom:
+  - Detention of Evan Gershkovich
+  - Russian court extending detention
+  - Efforts to secure Evan's release
+- Global Conflicts:
+  - Israeli military's fighting in Gaza
+  - Hostage talks between Israel and Hamas
+  - Attacks in the Red Sea and the Pentagon's response
+  - US naval ship and commercial vessels attacked
+  - Iranian Foreign Minister's comments on a regional conflict
+  - Supreme Court hearing on Ukraine war funding
+- Legal Proceedings:
+  - Supreme Court hearing on Purdue Pharma's settlement
+  - Challenges to the Sackler family's settlement offer
+  - Allegations against a former American diplomat
+- Technology and Streaming:
+  - Spotify's layoffs
+  - Bitcoin's rally to a 19-month high
+- Health and Pharmaceuticals:
+  - Supreme Court hearing on opioid settlement
+  - Purdue Pharma's settlement challenges
+  - Sackler family's offer and its legal implications
+  - Demand for weight loss drugs and food companies' response
+- Government Actions:
+  - US naval ship and commercial vessels attacked
+  - Pentagon's response and blame on Iran
+  - Iranian Foreign Minister's comments on a regional conflict
+  - US funding for Ukraine and potential consequences
+  - Allegations against a former American diplomat
+- Transmission Projects for Clean Energy:
+  - EnergyRe's billion-dollar funding
+  - Importance of transmission in clean energy
+  - European investors' interest in US projects
+- Changes in McDonald's Burgers:
+  - Reasons for changes
+  - Tweaks to improve taste and quality
+  - Competition in the burger market
+  - Introduction of new ads and gradual rollout
+
+### 05/12/2023
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
