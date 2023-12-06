@@ -1884,4 +1884,54 @@
 
 ### 05/12/2023
 
+- Global Events:
+  - Israel's Ground Offensive in Gaza
+  - Students' Academic Performance Decline
+  - U.S. State Department's Concerns on Civilian Casualties
+- Market and Business News:
+  - Moody's Credit Rating for China
+  - Meta and IBM's AI Alliance
+  - Investors' Cash in the Market
+  - CVS's Overhaul of Drug Pricing
+- International Conflicts:
+  - Israel-Hamas Fierce Fighting
+  - U.S. Officials' Statement on Israel's Plan to Flood Hamas' Tunnels
+- Education and Learning:
+  - Global Decline in Students' Math and Reading Skills
+  - Factors Affecting Education: Smartphone Use, Parental Engagement, Teacher Support
+- Military Strategies:
+  - Israel's Ground Attacks in Khan Younis
+  - U.S. State Department's Monitoring of Israel's Actions
+- Technology and AI:
+  - Meta and IBM's Coalition for Open-Source AI
+  - Challenges Faced by AI Industry Players
+  - The AI Alliance's Participants: Oracle, Intel, Cornell University, National Science Foundation
+- Financial Markets:
+  - Investors' Record Cash Sums
+  - CVS's Plans to Change Drug Pricing
+  - Wall Street's Interest in Carbon Offsets
+- Labor Market and Economic Indicators:
+  - Job Openings Data from the Labor Department
+  - The Hot Labor Market Showing Signs of Cooling
+  - Consumer Spending Changes and Rising Credit Card Debt
+- Legal and Supreme Court Matters:
+  - Moody's Lowering China's Outlook
+  - U.S. Supreme Court Hearing on Federal Tax Code
+  - Potential Impact of a Broad Ruling on Income Taxation
+- Environmental Initiatives:
+  - Wall Street's Bet on Carbon Offsets
+  - Success of Timber Companies in Carbon Offset Projects
+  - Concerns and Criticisms of Carbon Offsets
+- Education Trends:
+  - OECD's PISA Exam Results
+  - Impact of Smartphone News on Learning
+  - Underlying Structural Issues in Education
+- Social Activism:
+  - Nuns' Shareholder Lawsuit Against Smith & Wesson
+  - Allegations Against Smith & Wesson's Marketing of AR-15 Rifle
+  - Advocacy for Changes in Marketing and Selling Practices
+- Precious Metals and Investments:
+  - Gold Prices Hitting New Records
+  - Factors Contributing to the Spike in Gold Prices
+
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
