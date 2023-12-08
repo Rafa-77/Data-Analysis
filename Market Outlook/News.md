@@ -1983,6 +1983,41 @@
 
 ### 07/12/2023
 
+- U.S. Senate Aid for Ukraine Stalls
+  - President Biden's push for new aid to Ukraine
+  - Stalling of the $110 billion foreign aid bill
+  - Republican demands for border security measures
+  - Mitch McConnell's statement on border security
+- U.S. Defense Bill Progress
+  - Advancements on a $900 billion defense bill
+  - Removal of contentious pieces from the National Defense Authorization Act
+  - Pay raise for military members and support for Taiwan's defense
+  - Grounding of the U.S. Osprey aircraft fleet
+- Tesla and Union Standoff in Europe
+  - Labor battle between Tesla and unions in Scandinavia
+  - Expansion of the strike from Sweden to Norway and Denmark
+  - Pressure on Tesla to sign a collective bargaining agreement
+  - Social responsibility concerns affecting Tesla's relationship with investors
+- Republican Presidential Nomination Debate
+  - Debate among Republican candidates in Alabama
+  - Absence of Donald Trump in the debate
+  - Ron DeSantis accusing Nikki Haley of ties to liberal Wall Street donors
+  - Haley's response and her position in the polls
+- Meta Platforms Message Encryption
+  - Meta fully encrypting messages on Facebook and Messenger
+  - Concerns about privacy and potential misuse by criminals
+  - Law enforcement warnings about the hindrance of crime-fighting efforts
+  - Plans for encryption on Instagram direct messages in the new year
+- Outflow of Investor Money from China
+  - Continued outflow of foreign investment from China
+  - Drop of $31 billion in foreign investment through October
+  - Concerns among U.S. investors about China's economic slowdown
+- McKinsey's new class of partners and its implications
+  - McKinsey naming a smaller class of partners for the upcoming year
+  - Significance of the smaller partner group in the consultancy industry
+  - Possible economic implications and challenges faced by McKinsey
+  - Historical context and recent difficulties for McKinsey
+
 ### 08/12/2023
 
 From this text, do the categories, subcategories and key ideas (put key ideas inside the subcategory list, and this inside the category list and remove "category", "subcategory" and "key idea"):
