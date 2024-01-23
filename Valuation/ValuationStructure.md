@@ -10,9 +10,10 @@ December 13, 2023 - 8:19am EST by aviclara181
 
 ## Structure
 
-1.
+1. Table with Specific Data
+2.
 
-## 1.
+## 1. Table with Specific Data
 
 Start with specific data at the moment you are writing the valuation.
 
