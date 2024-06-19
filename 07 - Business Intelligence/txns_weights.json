@@ -1,0 +1,25 @@
+{"amounts":{"avg":0.1,
+            "max":0.2,
+            "min":0.1
+            },
+"count":{"overall":0.3,
+        "monthly":0.2
+            },
+"categories":{"topups":{"amounts":{"avg":0.1,
+                                    "max":0.2,
+                                    "min":0.1
+                                    },
+                        "count":{"overall":0.3,
+                                "monthly":0.2
+                                }
+                        },                       
+            "bills":{"amounts":{"avg":0.1,
+                        "max":0.2,
+                        "min":0.1
+                        },
+                    "count":{"overall":0.3,
+                        "monthly":0.2
+                        }
+                    }
+            }
+}

@@ -1,0 +1,7 @@
+{"age": 0.3,
+"gender": 0.2,
+"location":{"security":0.5,
+            "schooling":0.3,
+            "bancarization":0.2
+            }
+}

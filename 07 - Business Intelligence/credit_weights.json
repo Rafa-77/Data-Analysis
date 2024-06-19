@@ -1,0 +1,23 @@
+{"loans":{"historic_number":-0.1,
+            "active_number":-0.1,
+            "historic_paid":0.3,
+            "active_paid":0.7,
+            "historic_defaulted":-0.3,
+            "active_defaulted":-0.5
+            },
+"credit_cards":{
+            "credit_limit":{"average": 0.1,
+                            "max":0.2
+                            },
+            "active_number":0.1,
+            "historic_paid":0.1,
+            "active_paid":0.4,
+            "historic_defaulted":-0.3,
+            "active_defaulted":-0.7
+            },
+"mortgages":{
+            "amount":0.4,
+            "paid_periods":0.6,
+            "unpaid_periods":-1.0
+            }
+}
